@@ -1,0 +1,16 @@
+Distribution: 
+24
+296
+1944
+8424
+20305
+28971
+24225
+11752
+3409
+585
+65
+
+1 Standard Deviations from Mean: 68.333%
+2 Standard Deviations from Mean: 95.467%
+3 Standard Deviations from Mean: 99.705%
